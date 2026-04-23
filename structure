@@ -1,0 +1,5 @@
+therapbot/
+│── therapbot.py
+│── README.md
+│── requirements.txt
+│── .gitignore
